@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -39,6 +40,9 @@ public class GeneralUtil {
 	
 	
 	public static void logMessage(String level, String filePath, String message) throws IOException {
+		Path dir = Paths.get(Config.LOGS_LOCATION.getValue());
+		directoryChecker(dir);
+		
 		String timestamp  = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss"));
 		StringBuilder log = new StringBuilder();
 		log.append(timestamp).append(" [" + level +"]").append(" | ").append(message);
