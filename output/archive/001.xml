@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LegalDocumentMetadata>
+    <DocumentID>CONTRACT001</DocumentID>
+	<FileName>001.pdf</FileName>
+    <Title>Service Agreement</Title>
+    <Author>Legal Team</Author>
+    <CreatedDate>2025-01-01</CreatedDate>
+    <LastModifiedDate>2025-01-02</LastModifiedDate>
+    <Version>1.0</Version>
+    <EffectiveDate>2025-01-15</EffectiveDate>
+    <ExpirationDate>2026-01-15</ExpirationDate>
+    <Status>Active</Status>
+    <PartiesInvolved>
+        <Party>Client Corporation</Party>
+        <Party>Service Provider LLC</Party>
+    </PartiesInvolved>
+    <Jurisdiction>New York, USA</Jurisdiction>
+</LegalDocumentMetadata>

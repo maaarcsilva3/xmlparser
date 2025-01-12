@@ -1,0 +1,31 @@
+2025-01-12_14-07-27 [INFO] | Started processing Files
+2025-01-12_14-07-27 [INFO] | Started processing file 001.xml
+2025-01-12_14-07-27 [INFO] | Started processing file 002.xml
+2025-01-12_14-07-27 [INFO] | Parsing XML...
+2025-01-12_14-07-27 [INFO] | Parsing XML...
+2025-01-12_14-07-27 [INFO] | Finding file...
+2025-01-12_14-07-27 [INFO] | Finding file...
+2025-01-12_14-07-27 [INFO] | File found at: C:\Users\Elizabeth\eclipse-workspace\XMLParser\input\002.pdf
+2025-01-12_14-07-27 [INFO] | File found at: C:\Users\Elizabeth\eclipse-workspace\XMLParser\input\001.pdf
+2025-01-12_14-07-27 [INFO] | Checking database connection...
+2025-01-12_14-07-27 [INFO] | Checking database connection...
+2025-01-12_14-07-27 [INFO] | Creating JSON file...
+2025-01-12_14-07-27 [INFO] | Creating JSON file...
+2025-01-12_14-07-27 [INFO] | JSON file saved at: C:\Users\Elizabeth\eclipse-workspace\XMLParser\output\002.json
+2025-01-12_14-07-27 [INFO] | JSON file saved at: C:\Users\Elizabeth\eclipse-workspace\XMLParser\output\001.json
+2025-01-12_14-07-27 [INFO] | Moving XML to Archive
+2025-01-12_14-07-27 [INFO] | Moving XML to Archive
+2025-01-12_14-07-27 [INFO] | Success moving 001.xml to C:\Users\Elizabeth\eclipse-workspace\XMLParser\output\archive\001.xml
+2025-01-12_14-07-27 [INFO] | Success moving 002.xml to C:\Users\Elizabeth\eclipse-workspace\XMLParser\output\archive\002.xml
+2025-01-12_14-07-27 [INFO] | Moving File to Archive
+2025-01-12_14-07-27 [INFO] | Moving File to Archive
+2025-01-12_14-07-27 [INFO] | Success moving 001.pdf to C:\Users\Elizabeth\eclipse-workspace\XMLParser\output\archive\001.pdf
+2025-01-12_14-07-27 [INFO] | Success moving 002.pdf to C:\Users\Elizabeth\eclipse-workspace\XMLParser\output\archive\002.pdf
+2025-01-12_14-07-27 [INFO] | Success inserting record
+2025-01-12_14-07-27 [INFO] | Success inserting record
+2025-01-12_14-07-27 [INFO] | Connection closed
+2025-01-12_14-07-27 [INFO] | Connection closed
+2025-01-12_14-07-27 [INFO] | Done processing file 001.xml
+2025-01-12_14-07-27 [INFO] | Done processing file 002.xml
+2025-01-12_14-07-27 [INFO] | Done processing files
+2025-01-12_14-07-27 [INFO] | Total time taken for this cycle: 638 milliseconds
