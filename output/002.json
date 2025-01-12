@@ -1,0 +1,16 @@
+{
+  "Status": "Active",
+  "Jurisdiction": "New York, USA",
+  "LastModifiedDate": "2025-01-02",
+  "ExpirationDate": "2026-01-15",
+  "Version": "1.0",
+  "FileName": "002.pdf",
+  "DocumentID": "CONTRACT001",
+  "CreatedDate": "2025-01-01",
+  "Title": "Service Agreement",
+  "Author": "Legal Team",
+  "PartiesInvolved": {
+    "Party": "Service Provider LLC"
+  },
+  "EffectiveDate": "2025-01-15"
+}

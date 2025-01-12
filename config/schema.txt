@@ -1,0 +1,10 @@
+CREATE TABLE `records` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `file_name` varchar(255) NOT NULL,
+  `image_location` varchar(255) NOT NULL,
+  `xml_location` varchar(255) NOT NULL,
+  `json_location` varchar(255) NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
